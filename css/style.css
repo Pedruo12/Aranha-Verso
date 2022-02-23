@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: azure;
+
+
+}
+
+body {
+
+background-color: #131313;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: azure;
+}
+
+.media-picture {
+
+    height: 400px;
+    background-image: url('../img/first.jpg');
+    background-position: top;
+    background-size: 1200px;
+    background-repeat: no-repeat;
+
+}
+
+.review-score {
+    padding: 13px;
+    color: azure;
+    background-color: crimson;
+
+}
+
+h2 {
+
+color: steelblue;
+
+}
+
+p {
+
+   color: #bdbdbd ;
+}
+
+a{
+
+color: yellow;
+
+}
+
+h4 {
+
+color: darkgoldenrod;
+
+}
