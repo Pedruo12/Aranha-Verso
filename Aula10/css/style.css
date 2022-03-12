@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;
+    font-family: roboto, sans-serif
+}
+
+.barra_superior
+{
+    width: 100%;
+    height: 38px;
+    background-color: #1CD1B0;
+    color:black;
+    padding: 10px;
+    font-size: 15px
+}
+
+.titulo{
+    position: absolute;
+    width: 100%;
+    height: 101px;
+    left: 0px;
+    top: 38px;
+    background: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    padding: 28px;
+}
+
+.card__background {
+    position: absolute;
+    width: 374px;
+    height: 217.81px;
+    left: 112px;
+    top: 225.11px;
+    border-radius: 16px 16px 0px 0px;
+    background-size: 100%;
+}
+.card__foto {
+    position: absolute;
+    width: 135.43px;
+    height: 133.17px;
+    left: 231.57px;
+    top: 369.57px;
+    border-radius: 50%;
+    background-size: 100%;
+}
+
+.card__fundo{
+    position: absolute;
+    width: 374px;
+    height: 447.2px;
+    left: 112px;
+    top: 441.8px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px
+}
+
+.card__personagem{
+    position: absolute;
+    width: 137.69px;
+    height: 39.5px;
+    left: 230.44px;
+    top: 525.31px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    color: black;
+   text-align:center;
+}
+
+.card__descrição{
+    position: absolute;
+    width: 301.33px;
+    height: 127.53px;
+    left: 148px;
+    top: 614.1px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #333333;
+}
+
+.card__botão{
+    position: absolute;
+    width: 145.34px;
+    height: 54.76px;
+    left: 225.93px;
+    top: 810.39px;
+    background: #00669F;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    padding: 18px;
+    color: #F3F3F3;
+}
+
+.card__background2 {
+    position: absolute;
+    width: 373.57px;
+    height: 217.81px;
+    left: 572.43px;
+    top: 225.11px;
+    border-radius: 16px 16px 0px 0px;
+    background-size: 100%;
+
+}
+.card__foto2 {
+    position: absolute;
+    width: 137.69px;
+    height: 137.69px;
+    left: 698.87px;
+    top: 367.31px;
+    border-radius: 50%;
+    background-size: 100%;
+
+}
+
+.card__fundo2{
+    position: absolute;
+    width: 374px;
+    height: 379px;
+    left: 572px;
+    top: 442px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px
+}
+
+.card__personagem2{
+    position: absolute;
+    width: 192.99px;
+    height: 39.5px;
+    left: 671.79px;
+    top: 525.31px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    color: black;
+    text-align: center;
+   
+}
+
+.card__descrição2{
+    position: absolute;
+    width: 301.33px;
+    height: 187.53px;
+    left: 616.49px;
+    top: 594.1px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #333333;
+}
+
+.card__botão2{
+    position: absolute;
+    width: 145.34px;
+    height: 54.76px;
+    left: 694.36px;
+    top: 745.39px;
+    background: #00669F;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    padding: 18px;
+    color: #F3F3F3;
+}
+
+.rodape{
+    position: absolute;
+    width: 100%;
+    height: 51px;
+    left: 0px;
+    top: 972px;
+    background: #00669F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-left: 28px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    color: #FFF9F9;
+
+}
